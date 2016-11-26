@@ -6,7 +6,7 @@
 ```python
 python server.py
 ```
-3. Run python client to the second one.
+1. Run python client to the second one.
  
 ```python
 python client.py
